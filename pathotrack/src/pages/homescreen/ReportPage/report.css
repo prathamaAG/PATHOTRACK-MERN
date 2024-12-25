@@ -1,0 +1,70 @@
+.report-page{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 60px;
+}
+.reportDiv{
+    width: 60%;
+    border: 1px solid rgb(218, 214, 214);
+    background-color: whitesmoke;
+    padding: 5%;
+}
+.report-infos{
+    display: flex;
+    justify-content: space-between;
+}
+.report-inputBlock{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.report-tests{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.nameOfTest{
+    font-weight: 600;
+    font-size: 18px;
+}
+.inputRow{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.input-row-group{
+    display: flex;
+    flex-direction: column;
+}
+.input-test-name{
+    font-size: 12px;
+    color: black;
+}
+.btn-grp-add-rem{
+    display: flex;
+}
+.add-btn-row{
+    background-color: rgb(255, 0, 0);
+    width: 60px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+}
+.input-field-tests{
+    border: 1px solid rgb(230, 34, 34);
+    border-radius: 5px;
+    width: 90%;
+}
+.input-field-tests:focus{
+    outline: none;
+}

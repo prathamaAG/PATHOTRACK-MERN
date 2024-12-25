@@ -1,0 +1,92 @@
+{
+    "data":[
+        {   "id":0,
+            "name":"X-Ray Test",
+            "imgLink":"https://medlineplus.gov/images/Xray.jpg",
+            "description":"An X-ray is a quick, painless test that produces images of the structures inside your body — particularly your bones.",
+            "requirements":[
+                {
+                    "key":"Fasting",
+                    "value":"Not Required"
+                },
+                {
+                    "key":"Data",
+                    "value":" X-rays show the internal structure of the body, such as bones, organs, and tissues. They can reveal fractures, infections, lung conditions (like pneumonia), and abnormalities such as tumors."
+                },
+
+                {
+                    "key":"Price",
+                    "value":"Rs 1500"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "name":"ECG (Electrocardiogram) ",
+            "imgLink":"https://cdn1.byjus.com/wp-content/uploads/2015/12/0-2-284x300.png",
+            "description":"An ECG records the electrical signals in your heart. It's a common test used to detect heart problems and monitor the heart's status.",
+            "requirements":[
+                {
+                    "key":"Fasting",
+                    "value":"Not Required"
+                },
+                {
+                    "key":"Normal Range",
+                    "value":"Normal sinus rhythm, heart rate between 60-100 bpm"
+                },
+                {
+                    "key":"Abnormal Range",
+                    "value":"Any deviation from normal sinus rhythm, arrhythmias, myocardial infarction indicators"
+                },
+                {
+                    "key":"Price",
+                    "value":"Rs 2500"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"CBC (Complete Blood Count)",
+            "imgLink":"https://cura4u.com/Common/DisplayFileFormFileName?fileName=How_Much_Does_a_CBC_Blood_Test_Cost__BlogImage_c3757857-de22-47a9-b334-2a79d3a25cb8.webp",
+            "description":"A CBC is a blood test used to evaluate your overall health and detect a wide range of disorders, including anemia, infection, and leukemia.",
+            "requirements":[
+                {
+                    "key":"Fasting",
+                    "value":"Not Required"
+                },
+                {
+                    "key":"Normal Range",
+                    "value":"(WBC): 4,000 - 11,000 cells per µL ,(RBC): 4.5 - 5.5 mill cells per µL,Hemoglobin: 13.8 - 17.2 g/dL for men, 12.1 - 15.1 g/dL for women & Platelets: 150,000 - 450,000 per µL "
+                },
+                {
+                    "key":"Abnormal Range",
+                    "value":"Deviation from the normal range for WBC, RBC, Hemoglobin, or Platelets"
+                },
+                {
+                    "key":"Price/Cost",
+                    "value":"Rs 500"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name":"Ultrasound Test",
+            "imgLink":"https://www.ahu.edu/sites/default/files/styles/fc_1800x1200/public/media/q2-resource-guide-image-.jpg?h=34bbd072&itok=t8aUUnfV",
+            "description":"An ultrasound uses high-frequency sound waves to create images of the inside of the body. It's commonly used during pregnancy and to diagnose conditions in the abdomen, liver & heart.",
+            "requirements":[
+                {
+                    "key":"Fasting",
+                    "value":"Required depending upon ultrasound"
+                },
+                {
+                    "key":"Data",
+                    "value":"Ultrasound images show the structure and movement of internal organs. It can reveal the condition of organs and tissues, such as the liver, kidneys, gallbladder, and heart. During pregnancy, it shows the development of the fetus."
+                },
+                {
+                    "key":"Price/Cost",
+                    "value":"Rs 2000"
+                }
+            ]
+        }
+    ]
+}
